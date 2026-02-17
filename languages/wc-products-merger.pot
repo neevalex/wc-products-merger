@@ -1,0 +1,35 @@
+msgid "Select Products"
+msgstr ""
+
+msgid "Bulk Action"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Selected Products"
+msgstr ""
+
+msgid "No products selected."
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "Merge Selected Product"
+msgstr ""
+
+msgid "Please select a product to merge."
+msgstr ""
+
+msgid "Merge Products"
+msgstr ""
+
+msgid "Product merged successfully."
+msgstr ""
+
+msgid "Error merging product."
+msgstr ""

@@ -1,0 +1,96 @@
+/* Admin styles for the WC Products Merger plugin */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+.button {
+    background-color: #007cba;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #005a8c;
+}
+
+.wc-products-merger-wrap {
+    max-width: 1200px;
+}
+
+.wc-products-merger-wrap .wp-list-table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.wc-products-merger-wrap .wp-list-table th.check-column {
+    width: 60px;
+    text-align: center;
+}
+
+.wc-products-merger-wrap .wp-list-table td {
+    vertical-align: middle;
+}
+
+.wc-products-merger-wrap .wp-list-table img {
+    max-width: 50px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.wc-products-merger-wrap .row-actions {
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.wc-products-merger-wrap .row-actions a {
+    text-decoration: none;
+}
+
+.wc-products-merger-wrap .description {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.wc-products-merger-wrap .submit {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.wc-products-merger-wrap .submit .button {
+    margin-right: 10px;
+}
+
+.wc-products-merger-wrap input[type="radio"] {
+    transform: scale(1.3);
+}
+
+.wc-products-merger-wrap tr:has(input[type="radio"]:checked) {
+    background-color: #e7f5e7 !important;
+}
